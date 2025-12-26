@@ -10,5 +10,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lleandrovalois&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleandrovalois&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lleandrovalois&show_icons=true&theme=react&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lleandrovalois&layout=compact&theme=react&hide_border=true)

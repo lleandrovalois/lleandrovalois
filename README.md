@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🎓 Estudando Gestão de produtos digitais na PUC - Minas
+- 💼 Trabalhando como desenvolvedor na ![Voxdata - Technology](https://www.linkedin.com/company/voxdata-telecom/posts/?feedView=all).
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
